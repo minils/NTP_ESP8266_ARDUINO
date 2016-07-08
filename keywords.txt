@@ -1,0 +1,4 @@
+time_t	KEYWORD1
+Ntp	KEYWORD1
+begin	KEYWORD2
+updateTime	KEYWORD2
